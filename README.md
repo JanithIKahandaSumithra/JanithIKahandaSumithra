@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Janith Induwara</h1>
-<h3 align="center">IT undergraduate with a passion for web development.</h3>
+<h3 align="center">IT undergraduate with a passion for web development and QA.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/janith induwara kahanda sumithra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janith induwara kahanda sumithra" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/janith-induwara-00380b285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janith induwara kahanda sumithra" height="30" width="40" /></a>
 <a href="https://fb.com/janith induwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janith induwara" height="30" width="40" /></a>
 </p>
 
